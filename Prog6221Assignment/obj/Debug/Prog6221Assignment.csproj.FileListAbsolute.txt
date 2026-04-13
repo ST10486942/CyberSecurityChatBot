@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Prog6221Assignment\obj\Debug\Prog6221Assignment.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Prog6221Assignment\obj\Debug\Prog6221Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Prog6221Assignment\bin\Debug\Prog6221Assignment.exe.config
+C:\Users\Student\source\repos\Prog6221Assignment\bin\Debug\Prog6221Assignment.exe
+C:\Users\Student\source\repos\Prog6221Assignment\bin\Debug\Prog6221Assignment.pdb
+C:\Users\Student\source\repos\Prog6221Assignment\obj\Debug\Prog6221Assignment.exe
+C:\Users\Student\source\repos\Prog6221Assignment\obj\Debug\Prog6221Assignment.pdb
+C:\Users\Student\source\repos\Prog6221Assignment\obj\Debug\Prog6221Assignment.exe.config
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\bin\Debug\Prog6221Assignment.exe.config
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\bin\Debug\Prog6221Assignment.exe
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\bin\Debug\Prog6221Assignment.pdb
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\obj\Debug\Prog6221Assignment.csproj.AssemblyReference.cache
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\obj\Debug\Prog6221Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\obj\Debug\Prog6221Assignment.exe
+C:\Users\cash\OneDrive\Documents\Prog6221Assignment\obj\Debug\Prog6221Assignment.pdb
